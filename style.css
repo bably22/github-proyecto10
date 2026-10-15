@@ -1,0 +1,81 @@
+.imagen{
+    width: 5%; height: 5%; size: 10%;
+}
+
+body{
+    background-image: url(fondo\ rosa.jpg);
+  font-family: cursive;
+  text-align: center;
+}
+
+.seccion{
+    border:  2px solid #6A5ACD;
+border-radius: 8px;
+padding: 16px;
+text-align: center;
+}
+
+
+
+h1 {
+    color: #7b0399;
+    text-align: center;
+    font-size: 2.6em;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #62017a;
+    text-align: center;
+    font-size: 2.em;
+    margin-bottom: 5px;
+}
+
+h3{
+    color: #4f0163;
+    text-align: center;
+    font-size: 2.em;
+    margin-bottom: 5px;
+}
+
+hr{
+border-color: #2c89e0;
+}
+
+.span1{
+ color:darkslateblue;
+}
+
+.span2{
+    color:lightseagreen;
+}
+
+.span3{
+    color:mediumvioletred;
+}
+
+ol{
+list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+code {
+    color: #145f87;
+    background-color: #e0f2fe;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: monospace;
+}
+
+kbd{
+    background-color: #f1f5f9;
+    border: 1px solid #cbd5e1;
+    border-radius: 4px;
+    box-shadow: 0 1px 0 rgba(31, 29, 29, 0.1);
+    padding: 2px 5px;
+    font-family: monospace;
+    font-size: 0.9em;
+}
